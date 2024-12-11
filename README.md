@@ -1,6 +1,6 @@
 ## About me
 **Music Lover | Music and audio AI Explorer**<br>
-Currently a consultant in climate strategy, I am deeply passionate about learning coding and machine learning to explore new possibilities in audio and music.
+Currently a consultant in climate strategy, I am deeply passionate about coding and machine learning to explore new possibilities in audio and music.
 
 ### 🔎 Research interests
 * Music Information Retrieval, Music classification, Music transcription, Extraction of music theory data
